@@ -1,0 +1,3 @@
+/home/luchdotcom/CLionProjects/racingPrograming/cmake-build-debug/CMakeFiles/racingPrograming.dir
+/home/luchdotcom/CLionProjects/racingPrograming/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/luchdotcom/CLionProjects/racingPrograming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
